@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Master different");
         System.out.println("feature");
         System.out.println("Master change");
+        System.out.println("b");
         System.out.println("m");
     }
 }
