@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Branch different");
         System.out.println("Another branch different");
         System.out.println("Branch 2 different");
+        System.out.println("Different from github");
         System.out.println("Master different");
     }
 }
