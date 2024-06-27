@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Before Add branch");
         System.out.println("Branch different");
         System.out.println("Another branch different");
+        System.out.println("Branch 2 different");
         System.out.println("Master different");
     }
 }
