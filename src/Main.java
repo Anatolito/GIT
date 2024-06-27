@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hi");
         System.out.println("Add origin");
         System.out.println("Before Add branch");
+        System.out.println("Branch different");
     }
 }
