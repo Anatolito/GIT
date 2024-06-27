@@ -10,5 +10,6 @@ public class Main {
         System.out.println("Different from github");
         System.out.println("Second Different from github");
         System.out.println("Master different");
+        System.out.println("Master change");
     }
 }
