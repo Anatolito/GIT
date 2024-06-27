@@ -15,5 +15,6 @@ public class Main {
         System.out.println("b");
         System.out.println("m");
         System.out.println("b1");
+        System.out.println("m1");
     }
 }
