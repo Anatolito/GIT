@@ -23,5 +23,6 @@ public class Main {
         System.out.println("Git fetch");
         System.out.println("Git fetch2");
         System.out.println("git branch");
+        System.out.println("Change from server");
     }
 }
