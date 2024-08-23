@@ -18,5 +18,6 @@ public class Main {
         System.out.println("m1");
         System.out.println("b2");
         System.out.println("New age");
+        System.out.println("Second New Age");
     }
 }
