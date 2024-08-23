@@ -22,5 +22,6 @@ public class Main {
         System.out.println("Git add all");
         System.out.println("Git fetch");
         System.out.println("Git fetch2");
+        System.out.println("git branch");
     }
 }
