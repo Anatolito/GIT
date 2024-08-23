@@ -19,5 +19,6 @@ public class Main {
         System.out.println("b2");
         System.out.println("New age");
         System.out.println("Second New Age");
+        System.out.println("Git add all");
     }
 }
