@@ -25,5 +25,9 @@ public class Main {
         System.out.println("git branch");
         System.out.println("Change from server");
         System.out.println("Change for all update");
+        System.out.println("Git pull = git fetch + git merge");
+        System.out.println("Git pull = git fetch + git merge 2");
+        System.out.println("Change for all update");
+
     }
 }
